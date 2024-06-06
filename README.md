@@ -48,13 +48,13 @@ This repository serves as a comprehensive resource for understanding the project
 
 # Contributors: 
 
-*Parth Joshi*
+[*Parth Joshi*](https://github.com/Parth0404)
 <br>
-*Krutarth Vora* 
+[*Krutarth Vora*](https://github.com/ksv1112) 
 <br>
-*Harsh Choksi*
+[*Harsh Choksi*](https://github.com/hhchoksi)
 <br>
-*Niyati Patel*
+[*Niyati Patel*](https://github.com/Niyati44)
 <br>
 
 <br>
