@@ -1,4 +1,4 @@
-# Project Name : Hard Stop & Momentary Stop Detection In Vehicles 
+# Hard Stop & Momentary Stop Detection In Vehicles 
 
 
 <br>
