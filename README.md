@@ -38,6 +38,8 @@ The code directory contains Python scripts used for data preprocessing, feature 
 # Results:
 The results directory contains visualizations, graphs, and other output files generated during the analysis. These include scatter plots, confusion matrices, and image comparisons to illustrate the model's performance and insights gained from the data.
 
+![Result Image](results/comparison_with_original.jpg)  <!-- Add this line to include the image -->
+
 <br>
 
 # Conclusion:
