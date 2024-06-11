@@ -1,7 +1,5 @@
 # Hard Stop & Momentary Stop Detection In Vehicles 
 
-
-<br>
 <br>
 
 # Overview:
