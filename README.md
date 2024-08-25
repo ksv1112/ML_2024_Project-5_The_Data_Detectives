@@ -1,7 +1,5 @@
-# Project Name : Hard Stop & Momentary Stop Detection In Vehicles 
+# Hard Stop & Momentary Stop Detection In Vehicles 
 
-
-<br>
 <br>
 
 # Overview:
@@ -38,6 +36,8 @@ The code directory contains Python scripts used for data preprocessing, feature 
 # Results:
 The results directory contains visualizations, graphs, and other output files generated during the analysis. These include scatter plots, confusion matrices, and image comparisons to illustrate the model's performance and insights gained from the data.
 
+![Result Image](results/comparison_with_original.jpg)  <!-- Add this line to include the image -->
+
 <br>
 
 # Conclusion:
@@ -48,11 +48,20 @@ This repository serves as a comprehensive resource for understanding the project
 
 # Contributors: 
 
-*Parth Joshi*
+[*Parth Joshi*](https://github.com/Parth0404)
 <br>
-*Krutarth Vora* 
+[*Krutarth Vora*](https://github.com/ksv1112) 
 <br>
-*Harsh Choksi*
+[*Harsh Choksi*](https://github.com/hhchoksi)
 <br>
-*Niyati Patel*
+[*Niyati Patel*](https://github.com/Niyati44)
 <br>
+
+<br>
+
+
+
+# Note: 
+<br>
+
+The dataset used in this project has been removed from the repository due to privacy concerns. The dataset was provided by the university and contains sensitive information. We respect the privacy and confidentiality of the data provided by the university and have therefore removed it from the repository. 
